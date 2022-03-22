@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="125506" started-at="2022-01-28T15:43:51Z" finished-at="2022-01-28T15:45:57Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="125506" started-at="2022-01-28T15:43:51Z" finished-at="2022-01-28T15:45:57Z">
+      <class name="greenExcercise.GreenPractice">
+        <test-method status="PASS" signature="tc2(java.lang.String, java.lang.String)[pri:0, instance:greenExcercise.GreenPractice@a9cd3b1]" name="tc2" duration-ms="24077" started-at="2022-01-28T21:13:51Z" data-provider="LoginData" finished-at="2022-01-28T21:14:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Admi]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin12]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc2 -->
+        <test-method status="PASS" signature="tc2(java.lang.String, java.lang.String)[pri:0, instance:greenExcercise.GreenPractice@a9cd3b1]" name="tc2" duration-ms="14843" started-at="2022-01-28T21:14:15Z" data-provider="LoginData" finished-at="2022-01-28T21:14:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Admi]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc2 -->
+        <test-method status="PASS" signature="tc2(java.lang.String, java.lang.String)[pri:0, instance:greenExcercise.GreenPractice@a9cd3b1]" name="tc2" duration-ms="41442" started-at="2022-01-28T21:14:30Z" data-provider="LoginData" finished-at="2022-01-28T21:15:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin12]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc2 -->
+        <test-method status="PASS" signature="tc2(java.lang.String, java.lang.String)[pri:0, instance:greenExcercise.GreenPractice@a9cd3b1]" name="tc2" duration-ms="44937" started-at="2022-01-28T21:15:12Z" data-provider="LoginData" finished-at="2022-01-28T21:15:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc2 -->
+      </class> <!-- greenExcercise.GreenPractice -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
